@@ -1,1 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pen</title>
+  </head>
+  <body>
 
+    <script src="./script.js"></script>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agro Forte - Futuro Sustentável</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>🌸 Agro Forte 🌱</h1>
+    <p>Equilíbrio entre produção e meio ambiente</p>
+</header>
+
+<!-- Banner com pôr do sol -->
+<section class="banner">
+    <div class="overlay">
+        <h2>🌅 Construindo um futuro sustentável</h2>
+        <p>Produzir alimentos, preservar a natureza e cuidar das próximas gerações.</p>
+    </div>
+</section>
+
+<!-- Sobre o projeto -->
+<section class="sobre">
+    <h2>🌿 Sobre o Agro Forte</h2>
+    <p>
+        Agro Forte é um projeto que une tecnologia, inovação e práticas sustentáveis no campo.
+        Buscamos aumentar a produtividade agrícola sem comprometer o meio ambiente.
+    </p>
+</section>
+
+<!-- Sustentabilidade -->
+<section class="sustentabilidade">
+    <h2>♻️ Sustentabilidade no Campo</h2>
+    <div class="cards">
+        <div class="card">
+            <h3>🌾 Produção Consciente</h3>
+            <p>Práticas agrícolas modernas aumentam produtividade e reduzem impactos ambientais.</p>
+        </div>
+        <div class="card">
+            <h3>💧 Economia de Água</h3>
+            <p>Sistemas de irrigação inteligentes e monitoramento hídrico.</p>
+        </div>
+        <div class="card">
+            <h3>☀️ Energia Renovável</h3>
+            <p>Uso de energia solar e bioenergia para reduzir a pegada ambiental.</p>
+        </div>
+        <div class="card">
+            <h3>🌳 Preservação Ambiental</h3>
+            <p>Proteção de rios, florestas e fauna enquanto produzimos alimentos.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Curiosidades -->
+<section class="curiosidades">
+    <h2>💡 Curiosidades</h2>
+    <ul>
+        <li>O Brasil possui mais de 5 milhões de propriedades agrícolas.</li>
+        <li>Mais de 70% da energia solar rural é utilizada em irrigação.</li>
+        <li>A integração lavoura-pecuária-floresta ajuda a reduzir emissões.</li>
+        <li>Polinizadores como abelhas são essenciais para frutas e grãos.</li>
+        <li>O solo bem manejado aumenta a produtividade e reduz erosão.</li>
+    </ul>
+</section>
+
+<!-- Benefícios -->
+<section class="beneficios">
+    <h2>📊 Benefícios do Agro Sustentável</h2>
+    <div class="cards">
+        <div class="card">
+            <h3>Alimentos Saudáveis</h3>
+            <p>Redução de produtos químicos, garantindo segurança para todos.</p>
+        </div>
+        <div class="card">
+            <h3>Economia Local</h3>
+            <p>Geração de empregos e desenvolvimento econômico nas regiões rurais.</p>
+        </div>
+        <div class="card">
+            <h3>Redução de Impactos</h3>
+            <p>Diminuição de gases de efeito estufa e preservação de habitats.</p>
+        </div>
+        <div class="card">
+            <h3>Futuro Sustentado</h3>
+            <p>Produção consciente para garantir alimentos e qualidade de vida futuras.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Tecnologia no campo -->
+<section class="tecnologia">
+    <h2>🖥️ Tecnologia no Campo</h2>
+    <ul>
+        <li>Drones para monitoramento de lavouras.</li>
+        <li>Aplicativos de gestão agrícola.</li>
+        <li>Sensores de umidade e nutrientes do solo.</li>
+        <li>Automação de irrigação e colheita.</li>
+    </ul>
+</section>
+
+<!-- Biodiversidade -->
+<section class="biodiversidade">
+    <h2>🦋 Biodiversidade</h2>
+    <p>
+        A preservação de espécies vegetais e animais é essencial para o equilíbrio ambiental
+        e para a produção agrícola. Plantar árvores, proteger nascentes e manter corredores
+        ecológicos são práticas fundamentais.
+    </p>
+</section>
+
+<!-- Frase de impacto -->
+<section class="frase">
+    <h2>"Produzir hoje pensando no amanhã."</h2>
+</section>
+
+<!-- Contato -->
+<section class="contato">
+    <h2>📩 Entre em Contato</h2>
+    <form id="formulario">
+        <input type="text" id="nome" placeholder="Seu nome" required>
+        <input type="email" id="email" placeholder="Seu e-mail" required>
+        <textarea id="mensagem" placeholder="Sua mensagem" required></textarea>
+        <button type="submit">Enviar</button>
+    </form>
+    <p id="resposta"></p>
+</section>
+
+<footer>
+    <p>🌸 Agro Forte | Futuro Sustentável © 2026</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
